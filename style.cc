@@ -4,7 +4,6 @@ body {
   font-family: Arial, Helvetica, Sans- serif;
   Margin: 10% 20%;
 }
-
 .exp-header {
   text-align: center;
   text-transform: uppercase;
